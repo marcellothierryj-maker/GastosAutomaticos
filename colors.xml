@@ -1,0 +1,8 @@
+<resources>
+    <color name="bg">#F7F8FA</color>
+    <color name="card">#FFFFFF</color>
+    <color name="primary">#2D6A4F</color>
+    <color name="text">#17202A</color>
+    <color name="muted">#667085</color>
+    <color name="divider">#EAECF0</color>
+</resources>
